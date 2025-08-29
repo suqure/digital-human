@@ -1,0 +1,13 @@
+sentencepiece
+torch
+tqdm
+transformers
+onnx
+onnxruntime
+librosa
+MNN
+datasets
+gradio<5
+ffmpeg-python
+opencv-python
+openai-whisper
