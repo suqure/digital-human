@@ -76,3 +76,6 @@ python webui.py
     - 模型概述：小链APP中的模型描述
 <img src='res/7.png' />
 2. 点击**开始转换**按钮，等待转换完成，下载后拷贝到手机可以通过小链APP的本地导入APP
+
+### 有疑问可以来QQ频道直接和我沟通
+<img src='res/channel.jpg' /> 
