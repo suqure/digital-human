@@ -11,7 +11,7 @@
 ### 下载项目后在项目目录执行环境安装,
 
 1. 最低硬件要求:6G以上显存Nvidia显卡
-2. 软件环境要求：torch2.0+ CUDA12.1+
+2. 软件环境要求：torch2.0+ CUDA12.1+ ffmpeg
 
 ```bash
 conda create -n digitalHuman python=3.10

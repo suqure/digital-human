@@ -38,7 +38,7 @@ def extract_train_data(path,sr=16000,output_dir="dataset"):
     print("extract audio")
  
     out_wav = output_dir+"/%s.wav"%name
-    cmd = f'ffmpeg -i {path} -f wav -ar {sr} {out_wav}'
+    cmd = f'ffmpeg -y -i {path} -f wav -ar {sr} {out_wav}'
     os.system(cmd)
     exract_whisper_feature(out_wav)
     print("extract image") 
@@ -140,7 +140,7 @@ def covert25Fps(path,output_dir="tmp"):
     os.mkdir(output_dir)     
     name,_ = os.path.splitext(os.path.basename(path))
     output = f'{output_dir}/{name}.mp4'
-    cmd = f"ffmpeg -i {path} -r 25 {output}"
+    cmd = f"ffmpeg -y -i {path} -r 25 {output}"
     os.system(cmd)
     return output
 
