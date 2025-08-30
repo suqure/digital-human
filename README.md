@@ -8,7 +8,7 @@
 </div>
 
 ## 推理效果演示
-<video src="res/demo.mp4" width="320" height="240" controls preload></video>
+<video src="https://private-user-images.githubusercontent.com/167196623/483856967-a311efd7-0298-4d95-b8b0-59a38a7ef5ac.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY1MzgzNzQsIm5iZiI6MTc1NjUzODA3NCwicGF0aCI6Ii8xNjcxOTY2MjMvNDgzODU2OTY3LWEzMTFlZmQ3LTAyOTgtNGQ5NS1iOGIwLTU5YTM4YTdlZjVhYy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgzMFQwNzE0MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OGIxMTdjZTA1YWFiZTQzMDY5MmM1N2Y2YmZhMDljNjU2NWYxNmE5Y2NhZWUxNDljM2Q3MzQ4NTg2MjUyOTE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gzOK1y6sYKbziXe09OGgvOzeAx4-aOK6_LF8E0gTUrQ" width="320" height="240" controls preload></video>
 
 ## 使用教程
 ### 下载项目后在项目目录执行环境安装,
