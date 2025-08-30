@@ -8,9 +8,8 @@
 </div>
 
 ## 推理效果演示
-<video width="320" height="240" controls>
-<source src="res/demo.mp4" type="video/mp4"> 
-</video>
+<video src="res/demo.mp4" width="320" height="240" controls preload>
+ </video>
 
 ## 使用教程
 ### 下载项目后在项目目录执行环境安装,
@@ -30,7 +29,7 @@ python webui.py
 ```
 #### 转换训练数据
 用于转换模型训练数据集
-1. 在**转换训练集**Tab上传单人口播视频文件(确保所有帧都包含无遮挡的人脸脸)
+1. 在**转换训练集**Tab上传单人口播视频文件(确保所有帧都包含无遮挡的人脸)
 <img src='res/1.png' />
 2. 点击**转换训练数据集**按钮，等待转换完成(完成后会在其他Tab训练集中出现)
 <img src='res/2.png' />
