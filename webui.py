@@ -126,7 +126,7 @@ with gr.Blocks() as demo:
                 synDataset = gr.Dropdown(multiselect=True, choices=datasetList, allow_custom_value=True, label="训练集")
                 synCheck = gr.Dropdown(multiselect=False,choices=synCpkList,  label="检查点")  
             with gr.Column(): 
-                synBtn = gr.Button("开始唇训练", variant="primary")
+                synBtn = gr.Button("开始唇形训练", variant="primary")
                 synTrainRs = gr.DataFrame(label='训练结果',headers=['训练轮数','损失率'])
     with gr.Tab("数字人模型训练"):
         with gr.Row():
