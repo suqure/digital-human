@@ -7,6 +7,11 @@
 **小链 [APP](https://chat.finelink.ltd) 下载地址!**
 </div>
 
+## 推理效果演示
+<video width="320" height="240" controls>
+<source src="res/demo.mp4" type="video/mp4"> 
+</video>
+
 ## 使用教程
 ### 下载项目后在项目目录执行环境安装,
 
@@ -61,7 +66,7 @@ python webui.py
 1. 切换到**模型推理测试**Tab选择对应的检查点，上传测试音频，选择对应的训练集，选择检查点
 <img src='res/5.png' />
 2. 点击**开始推理**按钮，等待推理完成
-<img src='res/6.png' />
+<img src='res/6.png' /> 
 #### 模型转换
 用于将模型转换为小链APP可用的模型
 1. 却换到**模型转换**Tab填写相关参数
