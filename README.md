@@ -8,8 +8,7 @@
 </div>
 
 ## 推理效果演示
-<video src="res/demo.mp4" width="320" height="240" controls preload>
- </video>
+<video src="res/demo.mp4" width="320" height="240" controls preload></video>
 
 ## 使用教程
 ### 下载项目后在项目目录执行环境安装,
